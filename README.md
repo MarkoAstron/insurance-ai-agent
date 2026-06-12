@@ -45,8 +45,8 @@ GET /api/policies/{iin} (get_client_policies) — проверка страхо�
 🔧 Инструкция по развертыванию
 1. Клонирование и подготовка окружения
 Bash
-git clone https://github.com/your-username/insurance-ai-agent.git
-cd insurance-ai-agent
+git clone https://github.com/MarkoAstron/insurance-ai-agent.git
+cd agent_01
 
 # Создание и активация виртуального окружения
 python -m venv venv
